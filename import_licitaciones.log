@@ -1,0 +1,27 @@
+2025-06-20 19:39:08,725 - INFO - Reading Excel file: licitaciones_filtradas.xlsx
+2025-06-20 19:39:13,294 - INFO - Excel file read successfully. 11441 rows
+2025-06-20 19:39:13,299 - ERROR - Missing required columns: ['Link_licitacion']
+2025-06-20 19:40:22,178 - INFO - Reading Excel file: licitaciones_filtradas.xlsx
+2025-06-20 19:40:26,180 - INFO - Excel file read successfully. 11441 rows
+2025-06-20 19:40:26,187 - INFO - Connected to database: licitaciones.db
+2025-06-20 19:40:27,010 - INFO - Imported 11441 rows to table 'licitaciones' in licitaciones.db
+2025-06-20 19:40:27,011 - INFO - Table 'licitaciones' verified successfully
+2025-06-20 19:40:27,022 - INFO - Table contains 11441 rows
+2025-06-20 19:47:05,905 - Reading Excel file: licitaciones_filtradas.xlsx
+2025-06-20 19:47:10,434 - Excel file read successfully. 11441 rows
+2025-06-20 19:47:11,761 - Imported 11441 rows to table 'licitaciones' in licitaciones.db
+2025-06-20 21:49:55,060 - Reading Excel file: licitaciones_filtradas.xlsx
+2025-06-20 21:49:58,821 - Excel file read successfully. 11441 rows
+2025-06-20 21:50:00,616 - Imported 11441 rows to table 'licitaciones' in licitaciones.db
+2025-07-20 17:36:08,045 - Reading Excel file: licitaciones_filtradas.xlsx
+2025-07-20 17:36:15,154 - Excel file read successfully. 16511 rows
+2025-07-20 17:36:16,717 - Imported 16511 rows to table 'licitaciones' in licitaciones.db
+2025-07-20 21:51:30,218 - Reading Excel file: licitaciones_filtradas.xlsx
+2025-07-20 21:51:35,985 - Excel file read successfully. 16511 rows
+2025-07-20 21:51:37,040 - Imported 16511 rows to table 'modificados' in licitaciones.db
+2025-07-20 22:03:31,006 - Reading Excel file: licitaciones_filtradas.xlsx
+2025-07-20 22:03:36,214 - Excel file read successfully. 16511 rows
+2025-07-20 22:03:37,369 - Imported 16511 rows to table 'licitaciones' in licitaciones.db
+2025-08-28 08:20:59,120 - Reading Excel file: licitaciones_filtradas.xlsx
+2025-08-28 08:21:05,035 - Excel file read successfully. 16511 rows
+2025-08-28 08:21:05,284 - Imported 16511 rows to table 'licitaciones' in licitaciones.db
